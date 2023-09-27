@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/PeiHsuanBookstoreReact/static/css/main.08e98080.css",
+    "main.js": "/PeiHsuanBookstoreReact/static/js/main.bbf9144f.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/PeiHsuanBookstoreReact/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/bookstore-logo.png": "/PeiHsuanBookstoreReact/static/media/bookstore-logo.f20fcb0ab1f60296b092.png",
+    "static/media/fantasy.jpg": "/PeiHsuanBookstoreReact/static/media/fantasy.b9c93f61267d1af00d66.jpg",
+    "static/media/happiness-falls.gif": "/PeiHsuanBookstoreReact/static/media/happiness-falls.a2e5cfcfb08e48740a3b.gif",
+    "static/media/terrace-story.gif": "/PeiHsuanBookstoreReact/static/media/terrace-story.7e2949c0147eeff03537.gif",
+    "static/media/science.jpg": "/PeiHsuanBookstoreReact/static/media/science.62433ad3445c3c252535.jpg",
+    "static/media/the-breakaway.gif": "/PeiHsuanBookstoreReact/static/media/the-breakaway.39433ad07d198f892bbc.gif",
+    "static/media/everything-nothing.gif": "/PeiHsuanBookstoreReact/static/media/everything-nothing.40ad512138d6d4d13d7a.gif",
+    "static/media/bestsellers.jpg": "/PeiHsuanBookstoreReact/static/media/bestsellers.febaa264d41485975cdf.jpg",
+    "static/media/thrillers.png": "/PeiHsuanBookstoreReact/static/media/thrillers.4144d65ba250e869763c.png",
+    "static/media/romance.png": "/PeiHsuanBookstoreReact/static/media/romance.800d9c61804ceed3c214.png",
+    "static/media/classics.png": "/PeiHsuanBookstoreReact/static/media/classics.154723b9df7f0789b2aa.png",
+    "static/media/newreleases.png": "/PeiHsuanBookstoreReact/static/media/newreleases.127197a4dae66ddb95bb.png",
+    "static/media/twitter.png": "/PeiHsuanBookstoreReact/static/media/twitter.6037388c4904c56447ef.png",
+    "static/media/instagram.png": "/PeiHsuanBookstoreReact/static/media/instagram.951a1edde2d2fca2d508.png",
+    "static/media/shinybear.png": "/PeiHsuanBookstoreReact/static/media/shinybear.ac9f284c84ed3e9fd7d2.png",
+    "static/media/the-iliad.gif": "/PeiHsuanBookstoreReact/static/media/the-iliad.9d719517420c8044e766.gif",
+    "static/media/facebook.png": "/PeiHsuanBookstoreReact/static/media/facebook.ffadb2092577274de3a4.png",
+    "static/media/the-brothers-karamazov.gif": "/PeiHsuanBookstoreReact/static/media/the-brothers-karamazov.4982f5b4619a9ef84914.gif",
+    "static/media/little-dorrit.gif": "/PeiHsuanBookstoreReact/static/media/little-dorrit.efde18fca9bb33eb8a6e.gif",
+    "static/media/shopping-cart.png": "/PeiHsuanBookstoreReact/static/media/shopping-cart.96c73cb49987ccdf1154.png",
+    "index.html": "/PeiHsuanBookstoreReact/index.html",
+    "main.08e98080.css.map": "/PeiHsuanBookstoreReact/static/css/main.08e98080.css.map",
+    "main.bbf9144f.js.map": "/PeiHsuanBookstoreReact/static/js/main.bbf9144f.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/PeiHsuanBookstoreReact/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08e98080.css",
+    "static/js/main.bbf9144f.js"
+  ]
+}
